@@ -1,0 +1,110 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "1.jpg",
+      "title": "Ford mustang for sale",
+      "desc": "free mustang, but not rly",
+      "view": 150,
+      "date": "20/10/2020",
+      "year": 2018,
+      "price": "$30000",
+      "color": "Red",
+      "category": "Fast",
+      "milage": "106,000"
+    },
+    {
+      "id": 2,
+      "title": "Expensive car",
+      "image": "2.jpg",
+      "desc": "take or leave, its cheap",
+      "view": 132,
+      "date": "23/08/2020",
+      "year": 2016,
+      "price": "$32000",
+      "color": "Blue",
+      "category": "Fast",
+      "milage": "106,000"
+    },
+    {
+      "id": 3,
+      "title": "If you re a family guy, it's for you",
+      "image": "3.jpg",
+      "desc": "buy buy buy",
+      "view": 15000,
+      "date": "21/11/2020",
+      "year": 2010,
+      "price": "$3000",
+      "color": "Red",
+      "category": "Fast",
+      "milage": "110,000"
+    },
+    {
+      "id": 4,
+      "title": "Kinda cheap, but cool car",
+      "image": "4.jpg",
+      "desc": "Do you lovr youself? Then don't buy it",
+      "view": 35210,
+      "date": "20/03/2020",
+      "year": 2011,
+      "price": "$5600",
+      "color": "Black",
+      "category": "Slow",
+      "milage": "67,000"
+    },
+    {
+      "id": 5,
+      "title": "Woohoo boy, buy rn and get it for cheapest price on the market",
+      "image": "5.jpg",
+      "desc": "sell sell sell, this car sucks",
+      "view": 98770,
+      "date": "07/10/2020",
+      "year": 2020,
+      "price": "$55700",
+      "color": "Red",
+      "category": "Medium Fast",
+      "milage": "99,000"
+    },
+    {
+      "id": 6,
+      "title": "Red is the bad",
+      "image": "6.jpg",
+      "desc": "BUT NOW FOR FREEEE. JK ",
+      "view": 150,
+      "date": "20/10/2020",
+      "year": 2018,
+      "price": "$30000",
+      "color": "Red",
+      "category": "Fast",
+      "milage": "106,000"
+    },
+    {
+      "id": 7,
+      "title": "Slow car, but it's white",
+      "image": "7.jpg",
+      "desc": "Selling soon, go fast",
+      "view": 12350,
+      "date": "11/08/2020",
+      "year": 1999,
+      "price": "$3300",
+      "color": "White",
+      "category": "Slow",
+      "milage": "31,000"
+    },
+    {
+      "id": 8,
+      "title": "Yeap, it look cool but kinda expensive ngl",
+      "image": "8.jpg",
+      "desc": "Really good car!",
+      "view": 15230,
+      "date": "12/10/2020",
+      "year": 2021,
+      "price": "$88000",
+      "color": "Black",
+      "category": "Fast",
+      "milage": "3,000"
+    }
+
+  ]
+
+}

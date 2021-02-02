@@ -1,0 +1,42 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "a.jpg",
+      "desc": "Man, let me tell you some, this car is rock star! love it!",
+      "stars": 3
+    },
+    {
+      "id": 2,
+      "image": "b.jpg",
+      "desc": "In 2017, I  crashed this car, which I loved like a star. It loved it man :(!",
+      "stars": 5
+    },
+    {
+      "id": 3,
+      "image": "c.jpg",
+      "desc": "This car sucks, I had it for several years, and maaaan, i hate it wherever I see it",
+      "stars": 1
+    },
+    {
+      "id": 4,
+      "image": "d.jpg",
+      "desc": "Well, it meh car, it isn't bad or good. It is normal, medium car to have",
+      "stars": 2.5
+    },
+    {
+      "id": 5,
+      "image": "e.jpg",
+      "desc": "This car and love of my life are 2 thing I would recommend you to buy it",
+      "stars": 5
+    },
+    {
+      "id": 6,
+      "image": "f.jpg",
+      "desc": "Never ever buy this car. Motor sucks, endgine sucks, everything is in a bad condition after 1 ride.",
+      "stars": 0
+    }
+
+  ]
+
+}

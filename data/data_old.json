@@ -1,0 +1,83 @@
+{
+    "data": [{
+            "id": 1,
+            "title": "Ford mustang for salee",
+            "image": "1.jpg",
+            "desc": "This car was my dad's favourite",
+            "view": 150,
+            "date": "20/10/2019",
+            "year": 2018,
+            "price": "$30000",
+            "color": "Red",
+            "category": "Fast",
+            "milage": "106,000"
+        },
+        {
+            "id": 2,
+            "title": "Yeap, it look cool but kinda expensive ngl",
+            "image": "2.jpg",
+            "desc": "This car was bad dram when I woke up, it was reality",
+            "view": 132,
+            "date": "23/08/2018",
+            "year": 2016,
+            "price": "$32000",
+            "color": "Blue",
+            "category": "Fast",
+            "milage": "106,000"
+        },
+        {
+            "id": 3,
+            "title": "Red is the bad",
+            "image": "3.jpg",
+            "desc": "selling for my nephew's wedding money",
+            "view": 15000,
+            "date": "21/11/2017",
+            "year": 2010,
+            "price": "$3000",
+            "color": "Red",
+            "category": "Fast",
+            "milage": "110,000"
+        },
+        {
+            "id": 4,
+            "title": "Woohoo boy, buy rn and get it for cheapest price on the market",
+            "image": "4.jpg",
+            "desc": "This car was my dad's favourite",
+            "view": 35210,
+            "date": "20/03/2010",
+            "year": 2011,
+            "price": "$5600",
+            "color": "Black",
+            "category": "Slow",
+            "milage": "67,000"
+        },
+        {
+            "id": 5,
+            "title": "MEdium fast, but its car",
+            "image": "5.jpg",
+            "desc": "but it noew or we gonna hve some problems",
+            "view": 98770,
+            "date": "07/10/2011",
+            "year": 2020,
+            "price": "$55700",
+            "color": "Red",
+            "category": "Medium Fast",
+            "milage": "99,000"
+        },
+        {
+            "id": 6,
+            "title": "Red for $30000 buyy rn",
+            "image": "6.jpg",
+            "desc": "BUT NOW FOR FREEEE. JK ",
+            "view": 150,
+            "date": "20/10/2020",
+            "year": 2018,
+            "price": "$30000",
+            "color": "Red",
+            "category": "Fast",
+            "milage": "106,000"
+        }
+
+    ]
+
+}
